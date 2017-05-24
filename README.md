@@ -9,7 +9,7 @@ http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=1246&search
 
 ###### e-Gizmo GSM Remote I/O kit - Part 1: Setup
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=39GEn8W94rg)
+[![Watch the video](http://i.imgur.com/bwrHmN1.png)](https://www.youtube.com/watch?v=39GEn8W94rg)
 
 
 - For Technical Support, Kindly email us at egizmo.technical@gmail.com
